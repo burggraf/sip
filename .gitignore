@@ -36,3 +36,6 @@ static/favicon.ico
 static/icon-*.png
 server/private/cloudflare.ini
 server/nats-conf/*
+static/favicon.png
+#static/icon.svg
+static/safari-pinned-tab.svg
